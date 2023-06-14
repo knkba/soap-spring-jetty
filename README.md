@@ -1,2 +1,2 @@
 # soap-spring-jetty
-Soap web services with springboot with deploy in jetty
+Soap web services with springboot and deploy in jetty
